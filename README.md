@@ -1,6 +1,6 @@
 ## Hi visitor :smiley:	
 
-This is jadus' GitHub Repo.
+This is my GitHub Repo.
 Here, you will find some snippets of the personal projects I'm working on.
 
 ### Who am I? :man_shrugging:	
